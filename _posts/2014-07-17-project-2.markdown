@@ -7,6 +7,6 @@ alt: 02-ttt.png
 project-date: July 2017
 client: Personal
 category: Android Development
-description: <b><a href="https://play.google.com/store/apps/details?id=imaginary.question.timedtasktracker">Timed Task Tracker</a></b> <br />  Simple and lightweight task progress management app. <br /> <a href="https://play.google.com/store/apps/details?id=imaginary.question.timedtasktracker">https://play.google.com/store/apps/details?id=imaginary.question.timedtasktracker</a> <br />
+description: <font size = "6"><b><a href="https://play.google.com/store/apps/details?id=imaginary.question.timedtasktracker">Timed Task Tracker</a></b></font> <br />  Simple and lightweight task progress management app. <br /> <br /> <a href="https://play.google.com/store/apps/details?id=imaginary.question.timedtasktracker">https://play.google.com/store/apps/details?id=imaginary.question.timedtasktracker</a> <br />
 
 ---

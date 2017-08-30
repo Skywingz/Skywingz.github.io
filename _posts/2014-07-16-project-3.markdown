@@ -7,6 +7,6 @@ alt: 03-rdrr.png
 project-date: July 2017
 client: Personal
 category: Android Development
-description: <b><a href="https://play.google.com/store/apps/details?id=imaginary.question.rdrr">RDRR</a></b> <br /> Rolls dice for the Risk board game. Incorporates various Risk version abilities. <br /> <a href="https://play.google.com/store/apps/details?id=imaginary.question.rdrr">https://play.google.com/store/apps/details?id=imaginary.question.rdrr</a> <br />
+description: <font size = "6"><b><a href="https://play.google.com/store/apps/details?id=imaginary.question.rdrr">RDRR</a></b></font> <br /> Rolls dice for the Risk board game. Incorporates various Risk version abilities. <br /> <br /> <a href="https://play.google.com/store/apps/details?id=imaginary.question.rdrr">https://play.google.com/store/apps/details?id=imaginary.question.rdrr</a> <br />
 
 ---
