@@ -7,6 +7,6 @@ alt: 01-ct.png
 project-date: July 2017
 client: Personal
 category: Android Development
-description: <b><a href="https://play.google.com/store/apps/details?id=imaginary.question.choosetogether">Choose Together</a></b> <br /> <br /> A decision making app with your friends! 
+description: <b><a href="https://play.google.com/store/apps/details?id=imaginary.question.choosetogether">Choose Together</a></b> <br /> A decision making app with your friends! 
 
 ---
