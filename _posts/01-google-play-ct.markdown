@@ -7,6 +7,6 @@ alt: 08-cake.png
 project-date: July 2017
 client: Personal
 category: Android Development
-description: A decision making app with your friends! <br /> <a href="https://play.google.com/store/apps/details?id=imaginary.question.choosetogether">Choose Together</a>
+description: A decision making app with your friends! <a href="https://play.google.com/store/apps/details?id=imaginary.question.choosetogether">Choose Together</a>
 
 ---
