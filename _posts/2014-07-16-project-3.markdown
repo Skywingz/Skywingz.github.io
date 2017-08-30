@@ -7,6 +7,6 @@ alt: 03-rdrr.png
 project-date: July 2017
 client: Personal
 category: Android Development
-description: <b><a href="https://play.google.com/store/apps/details?id=imaginary.question.rdrr">Flat Icons</a></b> <br /> Rolls dice for the Risk board game. Incorporates various Risk version abilities. 
+description: <b><a href="https://play.google.com/store/apps/details?id=imaginary.question.rdrr">RDRR</a></b> <br /> Rolls dice for the Risk board game. Incorporates various Risk version abilities. 
 
 ---
