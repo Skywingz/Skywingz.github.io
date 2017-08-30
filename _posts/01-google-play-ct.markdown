@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 date: 2017-08-29
-img: 01-ct.png
-alt: 01-ct.png
+img: 08-cake.png
+alt: 08-cake.png
 project-date: July 2017
 client: Personal
 category: Android Development
