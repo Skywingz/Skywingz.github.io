@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2017-08-29
 img: 03_RDRR.png
-alt: image-alt
+alt: 03_RDRR.png
 project-date: July 2017
 client: Personal
 category: Android Development

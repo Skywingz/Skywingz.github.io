@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2017-08-29
 img: 02_TTT.png
-alt: image-alt
+alt: 02_TTT.png
 project-date: July 2017
 client: Personal
 category: Android Development
