@@ -2,9 +2,9 @@
 title: Android Developer
 email: jchoy413@gmail.com
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+description: "Android Developer"
+skills: "Android Developer - Creative Visionary - User Experience Designer"
+meta_author: Choy Jimmy
 
 # Google webmaster tools
 google_verify:
@@ -24,7 +24,7 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: D50000 #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
