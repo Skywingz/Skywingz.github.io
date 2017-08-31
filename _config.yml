@@ -51,8 +51,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Current:  New York City
-  - line: Future:   Anywhere
+  - line: CURRENT - New York City
+  - line: FUTURE - Anywhere
 
 # Credits content
 credits: '"Do what you love && Love what you do"'
