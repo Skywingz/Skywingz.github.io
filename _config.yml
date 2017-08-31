@@ -55,7 +55,7 @@ address:
   - line: FUTURE - Anywhere
 
 # Credits content
-credits: '"Do what you love && Love what you do"'
+credits: '"Do what you love  &&  Love what you do"'
 
 # Build settings
 markdown: kramdown
